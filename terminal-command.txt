@@ -1,0 +1,10 @@
+Few terminal Commands
+========================
+
+pwd -> present working directory
+
+ls -> list of visible files
+
+ls -a -> show hidden files
+
+mk-dir new_directory -> create new folder/directory
